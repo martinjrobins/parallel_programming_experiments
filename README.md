@@ -1,6 +1,12 @@
 # parallel_programming_experiments
 This repository sets out a few distributed computing test problems to be solved with HPX and compared with MPI
 
+## HPX
+"The C++ Standard Library for Parallelism and Concurrency"
+* [GitHub](https://github.com/STEllAR-GROUP/hpx)
+* [Website](http://stellar-group.org/libraries/hpx/)
+
+
 ## Supported Compilers
 
 Just Clang 5.0. To install on Ubuntu 16.04:
